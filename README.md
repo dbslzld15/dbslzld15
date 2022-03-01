@@ -1,4 +1,4 @@
-## 🗒 Notion
+## 🗒 Resume
 https://www.notion.so/Park-Woo-Jin-170d8e5b2f7641d8a6c7e9cf1c6bb4b2
 
 ## 🎞 Career
