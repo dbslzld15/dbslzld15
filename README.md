@@ -12,7 +12,7 @@ https://www.notion.so/Park-Woo-Jin-170d8e5b2f7641d8a6c7e9cf1c6bb4b2
 - Java
 - Spring Boot
 - JPA, Spring Data JPA, Querydsl, MyBatis
-- Oracle, MySQL
+- Oracle, MySQL, H2 DB
 <!--
 **dbslzld15/dbslzld15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
