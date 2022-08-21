@@ -1,5 +1,5 @@
 ## 🗒 Resume
-https://www.notion.so/Park-Woo-Jin-170d8e5b2f7641d8a6c7e9cf1c6bb4b2
+https://www.notion.so/RESUME-170d8e5b2f7641d8a6c7e9cf1c6bb4b2
 
 <!-- ## 🎞 Career
 ```2021.07.01 ~ 2022.01.04``` @금융권 IT팀 (Spring Framework, MyBatis, Oracle) <br>
