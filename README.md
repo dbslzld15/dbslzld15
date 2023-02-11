@@ -1,6 +1,5 @@
 ## 🗒 Resume
-https://www.notion.so/RESUME-170d8e5b2f7641d8a6c7e9cf1c6bb4b2
-
+https://knotty-legend-607.notion.site/dc992edfc80d442fa0504984faefd364
 
 ## 📚 Experiecne
 - Java
