@@ -4,10 +4,9 @@ https://eddie-park.notion.site/3fbe5cc7cf4941678c6e85a116c5ec25?pvs=4
 ## 📚 Experiecne
 - Java
 - Spring Boot
-- JPA, Spring Data JPA, QueryDSL
-- MySQL, H2
-- AWS EC2, RDS, S3
-- Docker
+- JPA, QueryDSL, MyBatis
+- MySQL
+- RabbitMQ
 <!--
 **dbslzld15/dbslzld15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
