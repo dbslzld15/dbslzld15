@@ -1,5 +1,5 @@
 ## 🗒 Resume
-https://eddie-park.notion.site/3fbe5cc7cf4941678c6e85a116c5ec25?pvs=4
+[https://eddie-park.notion.site/3fbe5cc7cf4941678c6e85a116c5ec25?pvs=4](https://eddie-park.notion.site/100b1ffd8ede4277acc77a2a11a7c958?pvs=4)
 
 ## 📚 Experiecne
 - Java
